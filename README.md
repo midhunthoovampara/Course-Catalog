@@ -1,21 +1,6 @@
-A clean, modern, and fully responsive personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap.
-This project showcases my profile, services, experience, and contact details with a focus on UI/UX, performance, and accessibility.
+A simple and interactive course catalog web application built using HTML, CSS, and JavaScript.
+Displays available courses, top-rated course, instructor details, pricing, and supports live search.
 
-🚀 Live Demo
-👉 (https://github.com/midhunthoovampara/Course-Catalog/)
+🚀 Features : Course listing with availability status, Live search functionality, Top-rated course highlight, Dynamic course count, Clean and responsive UI
 
-📌 Features
-Responsive design for all screen sizes,
-Modern UI with Bootstrap 5,
-Fixed navigation bar,
-Services & experience sections
-Contact form UI,
-Dynamic footer year using JavaScript,
-Lightweight, fast-loading static site,
-
-🛠️ Tech Stack
-HTML5,
-CSS3,
-JavaScript (Vanilla),
-Bootstrap 5,
-Google Fonts (Inter)
+🛠️ Tech Stack : HTML5, CSS3, JavaScript (Vanilla)
