@@ -5,17 +5,17 @@ This project showcases my profile, services, experience, and contact details wit
 👉 (https://github.com/midhunthoovampara/Course-Catalog/)
 
 📌 Features
-Responsive design for all screen sizes
-Modern UI with Bootstrap 5
-Fixed navigation bar
+Responsive design for all screen sizes,
+Modern UI with Bootstrap 5,
+Fixed navigation bar,
 Services & experience sections
-Contact form UI
-Dynamic footer year using JavaScript
-Lightweight, fast-loading static site
+Contact form UI,
+Dynamic footer year using JavaScript,
+Lightweight, fast-loading static site,
 
 🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript (Vanilla)
-Bootstrap 5
+HTML5,
+CSS3,
+JavaScript (Vanilla),
+Bootstrap 5,
 Google Fonts (Inter)
